@@ -65,6 +65,7 @@ public class Orange {
 	
     Orange o=new Orange(2, "Cote d'ivoire");
     System.out.println(o);
-    
+    Orange o2=new Orange(3, "France");
+
    }
 }
